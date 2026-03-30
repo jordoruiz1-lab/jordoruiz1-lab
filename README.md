@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi 👋, I'm Jordi Dehesa
 
-<!--
-**jordoruiz1-lab/jordoruiz1-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- 🎯 Data Analyst / Data Scientist  
+- ⚙️ Mechanical Engineer with strong analytical background  
+- 📊 Currently working on real-world data analysis projects  
+- 🚀 Interested in business insights, data-driven decisions, and analytics  
 
-Here are some ideas to get you started:
+## Projects
+- 📈 Vanish Sales Analysis (Mexico)
+  - Data cleaning, merging multiple datasets, exploratory analysis
+  - Identified sales patterns and key performance drivers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- Python
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
+- Jupyter Notebook
+
+## Contact
+- 📧 jordoruiz1@gmail.com
